@@ -1,0 +1,42 @@
+C:\Users\Criff\source\repos\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.exe
+C:\Users\Criff\source\repos\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.deps.json
+C:\Users\Criff\source\repos\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.runtimeconfig.json
+C:\Users\Criff\source\repos\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.dll
+C:\Users\Criff\source\repos\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.pdb
+C:\Users\Criff\source\repos\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Criff\source\repos\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.AssemblyInfoInputs.cache
+C:\Users\Criff\source\repos\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.AssemblyInfo.cs
+C:\Users\Criff\source\repos\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\Criff\source\repos\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.dll
+C:\Users\Criff\source\repos\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\refint\CPRG211 - Lab 1.dll
+C:\Users\Criff\source\repos\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.pdb
+C:\Users\Criff\source\repos\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.genruntimeconfig.cache
+C:\Users\Criff\source\repos\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\ref\CPRG211 - Lab 1.dll
+C:\Users\Criff\Downloads\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.exe
+C:\Users\Criff\Downloads\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.deps.json
+C:\Users\Criff\Downloads\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.runtimeconfig.json
+C:\Users\Criff\Downloads\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.dll
+C:\Users\Criff\Downloads\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.pdb
+C:\Users\Criff\Downloads\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Criff\Downloads\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.AssemblyInfoInputs.cache
+C:\Users\Criff\Downloads\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.AssemblyInfo.cs
+C:\Users\Criff\Downloads\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\Criff\Downloads\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.dll
+C:\Users\Criff\Downloads\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\refint\CPRG211 - Lab 1.dll
+C:\Users\Criff\Downloads\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.pdb
+C:\Users\Criff\Downloads\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.genruntimeconfig.cache
+C:\Users\Criff\Downloads\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\ref\CPRG211 - Lab 1.dll
+C:\Users\Criff\Desktop\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.exe
+C:\Users\Criff\Desktop\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.deps.json
+C:\Users\Criff\Desktop\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.runtimeconfig.json
+C:\Users\Criff\Desktop\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.dll
+C:\Users\Criff\Desktop\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\bin\Debug\net7.0\CPRG211 - Lab 1.pdb
+C:\Users\Criff\Desktop\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Criff\Desktop\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.AssemblyInfoInputs.cache
+C:\Users\Criff\Desktop\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.AssemblyInfo.cs
+C:\Users\Criff\Desktop\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\Criff\Desktop\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.dll
+C:\Users\Criff\Desktop\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\refint\CPRG211 - Lab 1.dll
+C:\Users\Criff\Desktop\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.pdb
+C:\Users\Criff\Desktop\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\CPRG211 - Lab 1.genruntimeconfig.cache
+C:\Users\Criff\Desktop\CPRG211 - Lab 1\CPRG211 - Lab 1\CPRG211 - Lab 1\obj\Debug\net7.0\ref\CPRG211 - Lab 1.dll
